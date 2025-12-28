@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/sudharshanrajampalli/portfolio/issues"
   },
-  "homepage": "https://github.com/sudharshanrajampalli/portfolio#readme"
+  "homepage": "https://github.com/sudharshanrajampalli/portfolio#readme",
+  "devDependencies": {
+    "webpack-cli": "^6.0.1"
+  }
 }
